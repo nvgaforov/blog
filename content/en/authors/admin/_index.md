@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Гафоров Нурмухаммад Вомикович
+title: Gaforov Nurmukhammad Vomikovich
 
 # Name pronunciation (optional)
-name_pronunciation: Гафоров Нурмухаммад Вомикович
+name_pronunciation: Gaforov Nurmukhammad Vomikovich
 
 # Full name (for SEO)
-first_name: Нурмухаммад
-last_name: Гафоров
+first_name: Nurmukhammad
+last_name: Gaforov
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Rudn
     url: https://rudn.ru/
@@ -37,8 +37,8 @@ profiles:
 
 interests:
   - AI
-  - Информатика
-  - Программирование
+  - Computer Science
+  - Programming
 
 education:
   - area: Student
@@ -46,7 +46,7 @@ education:
     date_start: 2023-09-01
     date_end: 2027-05-31
     summary: 
-      
+
 work:
   - position: Student
     company_name: RUDN
@@ -59,7 +59,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Хард скиллы
+  - name: Hard Skills
     items:
       - name: Python
         description: ''
@@ -73,27 +73,27 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-  - name: Хобби
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
+      - name: Walking
         description: ''
         percent: 75
         icon: person-simple-walk
-      - name: Коты
+      - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Фотография
+      - name: Photography
         description: ''
         percent: 60
         icon: camera
 
 languages:
-  - name: Русский
+  - name: Russian
     percent: 100
-  - name: Английский
+  - name: English
     percent: 75
 
 # Awards.
@@ -109,6 +109,7 @@ languages:
 #    summary: 
 ---
 
-## Про меня
+## About Me
 
-Я студент НПИ в Российском университете дружбы народов. Мне нравится информатика и я люблю программировать и учить языки программирования
+I am a student at RUDN University. I enjoy computer science, love programming, and learning new programming languages.
+

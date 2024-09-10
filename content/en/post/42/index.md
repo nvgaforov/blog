@@ -1,5 +1,5 @@
 ---
-title: Моя неделя
+title: My Week
 summary: 
 date: 2024-09-07
 
@@ -18,10 +18,11 @@ tags:
   - Markdown
 ---
 
-Прошедшая неделя была полна активности и интересных задач. В понедельник я посетил лекцию по базам данных, где углубились в тему индексов и оптимизации запросов. После занятий я потратил время на выполнение лабораторной работы, связанной с созданием и управлением реляционными базами данных.
+The past week was full of activity and interesting tasks. On Monday, I attended a lecture on databases, where we delved into the topic of indexing and query optimization. After the lecture, I spent time working on a lab assignment related to creating and managing relational databases.
 
-Во вторник я работал над проектом по разработке игр. Мы с командой занимались программированием игрового движка и тестировали новые механики. На протяжении недели я также посещал практическое занятие по сетевому программированию, где мы изучали настройку и безопасность сетевых соединений.
+On Tuesday, I worked on a game development project. My team and I were programming the game engine and testing new mechanics. Throughout the week, I also attended a practical session on network programming, where we studied network configuration and security.
 
-В четверг я сосредоточился на подготовке к экзамену по операционным системам. Я повторил ключевые темы, такие как управление памятью и многозадачность. В пятницу я завершил работу над проектом по разработке программного обеспечения, представив его на защите в университете.
+On Thursday, I focused on preparing for the exam on operating systems. I reviewed key topics such as memory management and multitasking. On Friday, I finished working on a software development project and presented it during a defense at the university.
 
-Выходные я провел с пользой для себя. В субботу я встретился с друзьями на прогулке по городу и насладился свежим воздухом. В воскресенье я посвятил время самообразованию, изучая новые тенденции в области искусственного интеллекта и просматривая образовательные видео. Это было отличное завершение недели и подготовка к новым вызовам, которые меня ждут.
+I spent the weekend productively. On Saturday, I met up with friends for a walk around the city and enjoyed the fresh air. On Sunday, I dedicated time to self-education, studying new trends in artificial intelligence and watching educational videos. It was a great end to the week and a preparation for the new challenges ahead.
+

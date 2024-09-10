@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -30,21 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-#  - block: markdown
-#    content:
-#      title: '📚 My Research'
-#      subtitle: ''
-#      text: |-
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-#        
-#        Please reach out to collaborate 😃
-#    design:
-#      columns: '1'
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        While I am young and have not yet achieved success in research, the future is ahead.
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -54,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: New Publications
       text: ""
       filters:
         folders:
@@ -75,7 +72,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -112,7 +109,7 @@ sections:
 
         Easily build anything with blocks - no-code required!
         
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        From landing pages, second brains, and courses to academic resumes, conferences, and tech blogs.
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -122,3 +119,4 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+

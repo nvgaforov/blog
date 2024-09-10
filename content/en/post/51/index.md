@@ -1,5 +1,5 @@
 ---
-title: Моя неделя
+title: My Week
 summary: 
 date: 2024-09-07
 
@@ -18,10 +18,11 @@ tags:
   - Markdown
 ---
 
-На этой неделе я, как студент информатики, провел время весьма продуктивно. Понедельник начался с лекции по разработке мобильных приложений, где мы изучали основы работы с API и интеграцию внешних сервисов. После занятий я погрузился в проект по созданию простого мобильного приложения, добавляя новые функции и исправляя ошибки.
+This week, as a computer science student, I spent my time quite productively. Monday started with a lecture on mobile app development, where we studied the basics of working with APIs and integrating external services. After class, I immersed myself in a project to create a simple mobile app, adding new features and fixing bugs.
 
-Во вторник и среду я занимался исследовательской работой по теме машинного обучения. Мы с командой анализировали наборы данных, обучали модели и сравнивали их результаты. В среду вечером я посетил семинар по алгоритмам оптимизации, где узнал о новых методах улучшения вычислительных процессов.
+On Tuesday and Wednesday, I worked on research related to machine learning. My team and I analyzed datasets, trained models, and compared their results. On Wednesday evening, I attended a seminar on optimization algorithms, where I learned about new methods to improve computational processes.
 
-Четверг был посвящен подготовке к экзамену по теории алгоритмов. Я повторял основные алгоритмы сортировки и поиска, решал практические задачи и проверял свои знания. В пятницу я завершил разработку модулей для лабораторной работы по веб-программированию, где мы создавали интерфейсы для взаимодействия с пользователями.
+Thursday was dedicated to preparing for an exam on algorithm theory. I reviewed the main sorting and search algorithms, solved practical problems, and tested my knowledge. On Friday, I completed the development of modules for a web programming lab, where we created user interaction interfaces.
 
-На выходных я решил немного отдохнуть и восстановить силы. В субботу я сходил на экскурсию по местным достопримечательностям, а в воскресенье провел время за чтением книг и планированием будущих проектов, чтобы быть готовым к новым вызовам на следующей неделе.
+During the weekend, I decided to relax and recharge. On Saturday, I went on a tour of local attractions, and on Sunday, I spent time reading books and planning future projects to be ready for new challenges in the upcoming week.
+

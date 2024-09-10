@@ -1,5 +1,5 @@
 ---
-title: Моя неделя
+title: My Week
 summary: 
 date: 2024-09-07
 
@@ -18,10 +18,11 @@ tags:
   - Markdown
 ---
 
-Прошедшая неделя была насыщенной и продуктивной. В понедельник я начал с лекции по программной инженерии, где мы изучали принципы проектирования архитектуры программного обеспечения. После занятий я поработал над домашним заданием по объектно-ориентированному программированию, реализуя сложные структуры данных.
+The past week was both busy and productive. On Monday, I began with a lecture on software engineering, where we studied the principles of software architecture design. After classes, I worked on an assignment for object-oriented programming, implementing complex data structures.
 
-Во вторник и среду я сосредоточился на работе над курсовым проектом по веб-разработке. Мы с командой интегрировали новые функции и тестировали интерфейс, что потребовало много времени и усилий. В среду вечером я посетил семинар по анализу данных, где мы разбирали методы машинного обучения и их применение в реальных задачах.
+On Tuesday and Wednesday, I focused on working on a web development project. My team and I integrated new features and tested the interface, which took a lot of time and effort. On Wednesday evening, I attended a data analysis seminar where we discussed machine learning methods and their applications to real-world tasks.
 
-Четверг был посвящен подготовке к экзамену по системам управления базами данных. Я провел время, изучая сложные запросы и практикуясь в создании и оптимизации баз данных. В пятницу я завершил работу над проектом, представив его на внутреннем защите.
+Thursday was dedicated to preparing for an exam on database management systems. I spent time studying complex queries and practicing database creation and optimization. By Friday, I had completed the project and presented it in an internal review.
 
-В выходные я решил отдохнуть и развлечься. В субботу я сходил в тренажерный зал и встретился с друзьями на ужин, а в воскресенье провел день за чтением научных статей и подготовкой к следующей неделе, чтобы быть готовым к новым учебным вызовам.
+Over the weekend, I decided to relax and have some fun. On Saturday, I went to the gym and had dinner with friends, while Sunday was spent reading academic articles and preparing for the upcoming week to be ready for new academic challenges.
+

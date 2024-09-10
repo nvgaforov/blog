@@ -1,5 +1,5 @@
 ---
-title: Моя неделя
+title: My Week
 summary: 
 date: 2024-09-07
 
@@ -18,10 +18,11 @@ tags:
   - Markdown
 ---
 
-Прошедшая неделя была весьма насыщенной. Понедельник начался с лекции по вычислительным системам, где мы изучали архитектуру современных процессоров и их оптимизацию. После лекций я сосредоточился на лабораторной работе по системному программированию, создавая собственную версию файловой системы.
+The past week was quite eventful. Monday began with a lecture on computational systems, where we studied the architecture of modern processors and their optimization. After the lectures, I focused on a lab project in systems programming, where I created my own version of a file system.
 
-Во вторник я погрузился в изучение алгоритмов машинного обучения на практическом занятии. Мы работали над проектом по классификации данных, применяя различные модели и оценивая их эффективность. В среду я продолжил работу над этим проектом, улучшая алгоритмы и настраивая гиперпараметры моделей.
+On Tuesday, I delved into machine learning algorithms during a practical session. We worked on a data classification project, applying different models and evaluating their effectiveness. On Wednesday, I continued improving the project, fine-tuning algorithms and adjusting the models' hyperparameters.
 
-Четверг был посвящен подготовке к семинару по криптографии. Я изучал современные методы шифрования и их применение, готовя доклад для обсуждения. В пятницу я провел время на консультации с преподавателем по вопросам, возникшим во время подготовки.
+Thursday was dedicated to preparing for a seminar on cryptography. I studied modern encryption methods and their applications, preparing a report for discussion. On Friday, I spent time in a consultation with my professor to clarify some questions that came up during my preparation.
 
-В выходные я решил отдохнуть от учебных забот. В субботу я пошел в кино с друзьями, а в воскресенье провел день за чтением книг по новым технологиям и планированием своих следующих шагов в учебе. Это был отличный способ расслабиться и подготовиться к новой неделе.
+Over the weekend, I decided to take a break from academic work. On Saturday, I went to the movies with friends, and on Sunday, I spent the day reading books about new technologies and planning my next steps in my studies. It was a great way to relax and prepare for the upcoming week.
+
