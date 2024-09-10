@@ -4,15 +4,15 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Умирзоков Иброхим
+title: Гафоров Нурмухаммад
 # Website URL
-baseURL: 'https://iumirzakov.github.io/'
+baseURL: 'https://nvgaforov.github.io/'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
